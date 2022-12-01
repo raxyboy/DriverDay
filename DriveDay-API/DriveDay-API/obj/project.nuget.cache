@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L5dKgc0LMcxcCyJBkmCHk025JceNC8/Y5RB0RwWUYuz990EwaAigNH1kyOgYdpfNXWvs3BMCcmBFB57kiaw2fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a631600\\source\\repos\\DriverDay\\DriveDay-API\\DriveDay-API\\DriveDay-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a631600\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
